@@ -18,5 +18,4 @@
 Connect GitHub <br/>
 Setting hosts (/etc/hosts) <br/>
 Setting port (ufw) <br/>
-
-
+![7cbe4d5c16a3a9326340d98946d3b93b](https://github.com/user-attachments/assets/03f7ea3a-2eb2-4abd-9679-70346da28841)
