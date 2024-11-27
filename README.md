@@ -13,3 +13,10 @@
 **Commands:** Linux <br/>
 **Infrastructure:** Docker Engine 🐋 <br/>
 
+##Flow Setting VM: <br/>
+>Install Docker  
+Connect GitHub
+Setting hosts (/etc/hosts)
+Setting port (ufw)
+
+
