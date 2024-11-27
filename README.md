@@ -13,7 +13,7 @@
 **Commands:** Linux <br/>
 **Infrastructure:** Docker Engine 🐋 <br/>
 
-##Flow Setting VM: <br/>
+**Flow Setting VM:** <br/>
 >Install Docker <br/>
 Connect GitHub <br/>
 Setting hosts (/etc/hosts) <br/>
