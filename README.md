@@ -6,7 +6,7 @@
 ## Project status: `Development` <br/>
 
 ## Details
-**Operating System:** Linux/Ubuntu 🐧
-**Commands:** Linux 
-**Infrastructure:** Docker Engine 🐋
+**Operating System:** Linux/Ubuntu 🐧 <br/>
+**Commands:** Linux <br/>
+**Infrastructure:** Docker Engine 🐋 <br/>
 
