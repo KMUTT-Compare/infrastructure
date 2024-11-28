@@ -54,11 +54,12 @@ docker  build -t front-image -f FrontDockerfile .
 6. Run Containers
 <Run container>
 docker container run -d --restart unless-stopped -p 27017:27017 --name backend-container mongo-image
-docker container run -d --restart unless-stopped -p 8080:8080 --name backend-container back-image
+- เก่าไม่ใช้แล้ว - docker container run -d --restart unless-stopped -p 8080:8080 --name backend-container back-image
+docker container run -d --restart unless-stopped -p 8080:8080 -v /home/sysadmin/project_cap/backend/data:/app/cap-file-upload --name back-container back-image
 docker container run -d --restart unless-stopped -p 3001:80 --name frontend-container front-image
 <logs processing for look ERROR!!>
 docker logs -f _ชื่อContainer/Container_id_
 
-
+docker volume ไว้ใช้ดึงรูปออกมา เวลา container ปิด รูปจะถูกส่งไปเก็บไว้ใน /data ของ be 
 		   
 
